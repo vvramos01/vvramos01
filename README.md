@@ -80,7 +80,6 @@ Me chamo Vitoria, tenho 18 anos. Concluí o ensino médio em Desenvolvimento de 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-/>
 <img 
     align="left" 
     alt="Python"
@@ -88,8 +87,6 @@ Me chamo Vitoria, tenho 18 anos. Concluí o ensino médio em Desenvolvimento de 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-           
-/>
 <img 
     align="left" 
     alt="Next.js" 
