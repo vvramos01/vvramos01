@@ -5,7 +5,7 @@
 Me chamo Vitoria, tenho 18 anos. Concluí o ensino médio em Desenvolvimento de Sistemas e atualmente estou cursando Engenharia de Software na UniFil. Sou apaixonada por tecnologia e jogos!
 
 <div>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="[https://instagram.com/seu-usuário-instagram-aqui](https://www.instagram.com/vickyviviannie?igsh=MW94czd4ODYwY2s3YQ==)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "vitoria.ramos@edu.unifil.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/vitória-ramos-078934313" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
