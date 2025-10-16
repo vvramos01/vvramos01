@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Vitoria Ramos
+#  Vitoria Ramos
 
 **`Estudante de Engenharia de Software`**
 
-Me chamo Vitoria, tenho 18 anos. Concluí o ensino médio em Desenvolvimento de Sistemas e atualmente estou cursando Engenharia de Software na UniFil. Sou apaixonada por tecnologia e jogos!
+Olá! me chamo Vitória. Concluí o ensino médio em Desenvolvimento de Sistemas e atualmente estou cursando Engenharia de Software na UniFil. Sou apaixonada por tecnologia e jogos!
 
 <div>
 <a href="[https://instagram.com/seu-usuário-instagram-aqui](https://www.instagram.com/vickyviviannie?igsh=MW94czd4ODYwY2s3YQ==)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
