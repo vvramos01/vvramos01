@@ -141,20 +141,9 @@ Me chamo Vitoria, tenho 18 anos. Concluí o ensino médio em Desenvolvimento de 
 
 ###  Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vvramos01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvramos01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<a href="https://github.com/vvramos01/github-readme-stats">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=vvramos01&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/vvramos01/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vvramos01&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+</a>
