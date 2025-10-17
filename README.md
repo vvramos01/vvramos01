@@ -4,7 +4,7 @@
 
 Olá! me chamo Vitória. Concluí o ensino médio em Desenvolvimento de Sistemas e atualmente estou cursando Engenharia de Software na UniFil. Sou apaixonada por tecnologia e jogos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-ramos-078934313)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vitória-ramos-078934313)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vickyviviannie)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vitoria.ramos@edu.unifil.br)
 
