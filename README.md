@@ -129,11 +129,18 @@ Olá! me chamo Vitória. Concluí o ensino médio em Desenvolvimento de Sistemas
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
       <img 
     align="left" 
-    alt="Jira" 
-    title="Jira"
+    alt="VScode" 
+    title="VScode"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+     <img 
+    align="left" 
+    alt="VScode" 
+    title="VScode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <br/>
 <br/>
 
