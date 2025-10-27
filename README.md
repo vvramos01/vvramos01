@@ -83,6 +83,13 @@ Olá! me chamo Vitória. Concluí o ensino médio em Desenvolvimento de Sistemas
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
+     align="left" 
+    alt="CodeIgniter" 
+    title="CodeIgniter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" />
+<img 
     align="left" 
     alt="MySql" 
     title="MySql"
