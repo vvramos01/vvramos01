@@ -186,4 +186,3 @@ Olá! me chamo Vitória. Concluí o ensino médio em Desenvolvimento de Sistemas
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vvramos01&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
 </a>
 
-![snake animation](https://github.com/<vvramos01>/<vvramos01>/blob/output/github-contribution-grid-snake2.svg)
