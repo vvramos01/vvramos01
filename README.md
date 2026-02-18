@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Olá! me chamo Vitória. Concluí o ensino médio em Desenvolvimento de Sistemas e atualmente estou cursando Engenharia de Software na UniFil. Sou apaixonada por tecnologia e jogos!
+Olá! me chamo Vitória. Formada em Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software na UniFil. Sou apaixonada por tecnologia e jogos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-ramos-078934313)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vickyviviannie)
@@ -179,10 +179,9 @@ Olá! me chamo Vitória. Concluí o ensino médio em Desenvolvimento de Sistemas
 
 ###  Estatísticas
 
-<a href="https://github.com/vvramos01/github-readme-stats">
+<a href="https://github.com/vvramos01">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=vvramos01&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/vvramos01/convoychat">
+<a href="https://github.com/vvramos01">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vvramos01&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
 </a>
-
