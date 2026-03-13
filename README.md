@@ -1,187 +1,108 @@
-#  Vitoria Ramos
+#  Olá, eu sou Vitória Ramos!
 
-**`Estudante de Engenharia de Software`**
+##  Estudante de Engenharia de Software
 
-Olá! me chamo Vitória. Formada em Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software na UniFil. Sou apaixonada por tecnologia e jogos!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-ramos-078934313)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vickyviviannie)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vitoria.ramos@edu.unifil.br)
+Formada em Desenvolvimento de Sistemas e atualmente cursando **Engenharia de Software na UniFil**. 
+Sou apaixonada por tecnologia e jogos! 
 
 ---
 
-###  Linguagens e Tecnologias
+##  Conecte-se comigo
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-     align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-     align="left" 
-    alt="CodeIgniter" 
-    title="CodeIgniter"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" />
-    <img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-     <img 
-    align="left" 
-    alt="Json" 
-    title="Json"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
-<img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Jira" 
-    title="Jira"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
-    <img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-    <img 
-    align="left" 
-    alt="IntelliJ" 
-    title="IntelliJ"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-      <img 
-    align="left" 
-    alt="VScode" 
-    title="VScode"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-     <img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-    <img 
-    align="left" 
-    alt="Trello" 
-    title="Trello"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
-    <img 
-    align="left" 
-    alt="Unity" 
-    title="Unity"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-    <img 
-    align="left" 
-    alt="Replit" 
-    title="Replit"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />
-<br/>
-<br/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-instagram)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 
-###  Estatísticas
+---
 
-<a href="https://github.com/vvramos01">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=vvramos01&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/vvramos01">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vvramos01&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
-</a>
+##  GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/vwramos01">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vwramos01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vwramos01&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vwramos01&theme=dracula" alt="GitHub Streak"/>
+</div>
+
+---
+
+##  Linguagens e Tecnologias
+
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+### Mobile
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+
+### Frameworks e Ferramentas
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+---
+
+## 📈 Estatísticas Detalhadas
+
+<div align="center">
+  
+  **Total de Commits (último ano):** 448
+  
+  **Total de Estrelas:** 19
+  
+  **Contribuições (último ano):** 1 repositório
+  
+</div>
+
+---
+
+##  Metas para 2024
+
+- [ ] Aumentar contribuições em projetos open source
+- [ ] Realizar meu primeiro Pull Request
+- [ ] Criar projetos pessoais completos
+- [ ] Compartilhar conhecimento através de posts
+- [ ] Participar de hackathons e eventos tech
+
+---
+
+##  Contribuições
+
+![Snake animation](https://github.com/vwramos01/vwramos01/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+##  Projetos em Destaque
+
+<!-- Adicione aqui seus principais projetos -->
+### Em breve...
+Estou trabalhando em projetos incríveis! Fique de olho 👀
+
+---
+
+<div align="center">
+  
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vwramos01.vwramos01)
+  
+   *Transformando linhas de código em soluções inovadoras* 
+  
+</div>
