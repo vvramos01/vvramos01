@@ -11,7 +11,7 @@ Sou apaixonada por tecnologia e jogos!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-ramos-078934313)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vickyviviannie)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitoria.ramos@edu.unifil.br)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vitoria.ramos@edu.unifil.br)
 
 ---
 
@@ -72,16 +72,6 @@ Sou apaixonada por tecnologia e jogos!
   **Contribuições (último ano):** 1 repositório
   
 </div>
-
----
-
-##  Metas para 2024
-
-- [ ] Aumentar contribuições em projetos open source
-- [ ] Realizar meu primeiro Pull Request
-- [ ] Criar projetos pessoais completos
-- [ ] Compartilhar conhecimento através de posts
-- [ ] Participar de hackathons e eventos tech
 
 ---
 
