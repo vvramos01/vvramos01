@@ -1,11 +1,9 @@
-#  Olá, eu sou Vitória Ramos!
+# Vitória Ramos
+### Engenharia de Software | UniFil
 
-##  Estudante de Engenharia de Software
+Formada em Desenvolvimento de Sistemas, atualmente cursando Engenharia de Software.  
+Foco em desenvolvimento web e mobile. Tech enthusiast e gamer nas horas vagas.
 
-Formada em Desenvolvimento de Sistemas e atualmente cursando **Engenharia de Software na UniFil**. 
-Sou apaixonada por tecnologia e jogos! 
-
----
 
 ##  Conecte-se comigo
 
