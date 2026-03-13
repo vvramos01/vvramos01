@@ -85,20 +85,6 @@ Sou apaixonada por tecnologia e jogos!
 
 ---
 
-##  Contribuições
-
-![Snake animation](https://github.com/vwramos01/vwramos01/blob/output/github-contribution-grid-snake.svg)
-
----
-
-##  Projetos em Destaque
-
-<!-- Adicione aqui seus principais projetos -->
-### Em breve...
-Estou trabalhando em projetos incríveis! Fique de olho 👀
-
----
-
 <div align="center">
   
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vwramos01.vwramos01)
