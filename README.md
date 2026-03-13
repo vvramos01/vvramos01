@@ -2,8 +2,7 @@
 ### Engenharia de Software | UniFil
 
 Formada em Desenvolvimento de Sistemas, atualmente cursando Engenharia de Software.  
-Foco em desenvolvimento web e mobile. Tech enthusiast e gamer nas horas vagas.
-
+Foco em desenvolvimento web e mobile. Tech enthusiast.
 
 ##  Conecte-se comigo
 
