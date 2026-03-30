@@ -14,7 +14,10 @@ Foco em desenvolvimento web e mobile. Tech enthusiast.
 ##  GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vvramos01&theme=dracula"/>
+  <a href="https://github.com/vvramos01">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vvramos01&show_icons=true&theme=dracula&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vvramos01&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 <br>
