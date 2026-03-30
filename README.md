@@ -11,22 +11,20 @@ Foco em desenvolvimento web e mobile. Tech enthusiast.
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vitoria.ramos@edu.unifil.br)
 
 ---
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vvramos01&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvramos01&layout=compact&theme=dracula"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vvramos01&theme=dracula"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vvramos01&theme=dracula" />
+  <img src="https://streak-stats.demolab.com?user=vvramos01&theme=dracula"/>
 </div>
-
 ---
 
-## 📈 Estatísticas Detalhadas
+##  Estatísticas Detalhadas
 
 <div align="center">
   
