@@ -86,8 +86,6 @@ Foco em desenvolvimento web e mobile. Tech enthusiast.
   
 </div>
 
----
-
 <div align="center">
   
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vwramos01.vwramos01)
