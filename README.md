@@ -11,7 +11,6 @@ Foco em desenvolvimento web e mobile. Tech enthusiast.
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vitoria.ramos@edu.unifil.br)
 
 ---
-
 ##  GitHub Stats
 
 <div align="center">
@@ -24,11 +23,8 @@ Foco em desenvolvimento web e mobile. Tech enthusiast.
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvramos01&theme=dracula" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=vvramos01&theme=dracula" alt="GitHub Streak"/>
 </div>
-
----
-
 
 ---
 
@@ -39,6 +35,8 @@ Foco em desenvolvimento web e mobile. Tech enthusiast.
   **Total de Commits (último ano):** 448
   
   **Total de Estrelas:** 19
+
+</div>
   ##  Linguagens e Tecnologias
 
 ###  Frontend
