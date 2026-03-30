@@ -1,29 +1,22 @@
-# Vitória Ramos  
-### Engenharia de Software | UniFil  
+# Vitória Ramos
+### Engenharia de Software | UniFil
 
 Formada em Desenvolvimento de Sistemas, atualmente cursando Engenharia de Software.  
-Foco em desenvolvimento web e mobile. Tech enthusiast.  
+Foco em desenvolvimento web e mobile. Tech enthusiast.
 
----
-
-## Conecte-se comigo
-
-<div align="center">
+##  Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-ramos-078934313)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vickyviviannie)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitoria.ramos@edu.unifil.br)
-
-</div>
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vitoria.ramos@edu.unifil.br)
 
 ---
-
-## GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <a href="https://github.com/vvramos01">
-    <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vvramos01&show_icons=true&theme=dracula&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vvramos01&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vvramos01&show_icons=true&theme=dracula&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vvramos01&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
@@ -33,22 +26,19 @@ Foco em desenvolvimento web e mobile. Tech enthusiast.
   <img src="https://streak-stats.demolab.com?user=vvramos01&theme=dracula"/>
 </div>
 
----
 
-## Estatísticas
+##  Estatísticas Detalhadas
 
 <div align="center">
-
-Total de commits (último ano): 448  
-Total de estrelas: 19  
+  
+  **Total de Commits (último ano):** 448
+  
+  **Total de Estrelas:** 19
 
 </div>
+  ##  Linguagens e Tecnologias
 
----
-
-## Linguagens e Tecnologias
-
-### Frontend
+###  Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -59,7 +49,7 @@ Total de estrelas: 19
 
 ---
 
-### Backend
+###  Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -69,20 +59,20 @@ Total de estrelas: 19
 
 ---
 
-### Banco de Dados
+###  Banco de Dados
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=database&logoColor=white)
 
 ---
 
-### Mobile
+###  Mobile
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 ---
 
-### Frameworks e Ferramentas
+###  Frameworks e Ferramentas
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -93,11 +83,15 @@ Total de estrelas: 19
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
+  
+</div>
+
+---
 
 <div align="center">
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vvramos01.vvramos01)
-
-Transformando linhas de código em soluções inovadoras  
-
+  
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vwramos01.vwramos01)
+  
+   *Transformando linhas de código em soluções inovadoras* 
+  
 </div>
