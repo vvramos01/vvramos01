@@ -85,6 +85,9 @@ Foco em desenvolvimento web e mobile. Tech enthusiast.
 ![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat-square&logo=datagrip&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
+---
+
   **Contribuições (último ano):** 1 repositório
   
 </div>
