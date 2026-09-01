@@ -36,7 +36,8 @@ Foco em desenvolvimento web e mobile. Tech enthusiast.
   **Total de Estrelas:** 19
 
 </div>
-  ##  Linguagens e Tecnologias
+  
+###  Linguagens e Tecnologias
 
 ###  Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
