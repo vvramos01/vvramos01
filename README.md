@@ -15,13 +15,16 @@ Foco em Desenvolvimento Web, Mobile e Cibersegurança. Tech & Security enthusias
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" alt="GitHub Stats" src="profile-summary-card-output/dracula/3-stats.svg" />
-  <img height="180" alt="Linguagens mais usadas" src="profile-summary-card-output/dracula/2-most-commit-language.svg" />
+  <a href="https://github.com/vvramos01">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=vvramos01&show_icons=true&theme=dracula&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvramos01&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
+<br>
+
 <div align="center">
-  <img height="180" alt="Repositórios por linguagem" src="profile-summary-card-output/dracula/1-repos-per-language.svg" />
-  <img height="180" alt="Horário de produtividade" src="profile-summary-card-output/dracula/4-productive-time.svg" />
+  <img src="https://streak-stats.demolab.com?user=vvramos01&theme=dracula"/>
 </div>
 
 ## Estatísticas Detalhadas
