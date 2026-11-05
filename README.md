@@ -97,7 +97,7 @@ Foco em Desenvolvimento Web, Mobile e Cibersegurança. Tech & Security enthusias
 
 <div align="center">
   
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vvramos01.vvramos01)
+  ![Visitas](https://komarev.com/ghpvc/?username=vvramos01&style=flat-square&color=pink)
   
   *Transformando código em soluções seguras e inovadoras*
   
