@@ -8,26 +8,33 @@ Foco em Desenvolvimento Web, Mobile e Cibersegurança. Tech & Security enthusias
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-ramos-078934313)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vickyviviannie)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitoria.ramos@edu.unifil.br)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vitoria.ramos@edu.unifil.br)
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" alt="GitHub Stats" src="https://SEU-PROJETO.vercel.app/api?username=vvramos01&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
-  <img height="180" alt="Top Languages" src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=vvramos01&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
+  <img height="180" alt="GitHub Stats" src="profile-summary-card-output/dracula/3-stats.svg" />
+  <img height="180" alt="Linguagens mais usadas" src="profile-summary-card-output/dracula/2-most-commit-language.svg" />
 </div>
-
-<br>
 
 <div align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=vvramos01&theme=dracula&hide_border=true" />
+  <img height="180" alt="Repositórios por linguagem" src="profile-summary-card-output/dracula/1-repos-per-language.svg" />
+  <img height="180" alt="Horário de produtividade" src="profile-summary-card-output/dracula/4-productive-time.svg" />
 </div>
 
----
+## Estatísticas Detalhadas
 
-## Linguagens e Tecnologias
+<div align="center">
+  
+  **Total de Commits (último ano):** 448
+  
+  **Total de Estrelas:** 19
+
+</div>
+
+### Linguagens e Tecnologias
 
 ### Cibersegurança & Pentest
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557CDA?style=flat-square&logo=kali-linux&logoColor=white)
@@ -35,6 +42,8 @@ Foco em Desenvolvimento Web, Mobile e Cibersegurança. Tech & Security enthusias
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-1282D2?style=flat-square&logo=metasploit&logoColor=white)
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+
+---
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -45,6 +54,8 @@ Foco em Desenvolvimento Web, Mobile e Cibersegurança. Tech & Security enthusias
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
+---
+
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -53,14 +64,20 @@ Foco em Desenvolvimento Web, Mobile e Cibersegurança. Tech & Security enthusias
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
+---
+
 ### Mobile
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+
+---
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=database&logoColor=white)
+
+---
 
 ### Frameworks, Ferramentas & SO
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -76,9 +93,9 @@ Foco em Desenvolvimento Web, Mobile e Cibersegurança. Tech & Security enthusias
 ---
 
 <div align="center">
-
-  ![Visitas](https://komarev.com/ghpvc/?username=vvramos01&style=flat-square&color=blueviolet)
-
+  
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vvramos01.vvramos01)
+  
   *Transformando código em soluções seguras e inovadoras*
-
+  
 </div>
