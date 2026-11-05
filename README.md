@@ -97,7 +97,7 @@ Foco em Desenvolvimento Web, Mobile e Cibersegurança. Tech & Security enthusias
 
 <div align="center">
   
-  ![Visitas](https://komarev.com/ghpvc/?username=vvramos01&style=flat-square&color=pink)
+  ![Visitas](https://komarev.com/ghpvc/?username=vvramos01&style=flat-square&color=blueviolet)
   
   *Transformando código em soluções seguras e inovadoras*
   
